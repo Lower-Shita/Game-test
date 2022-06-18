@@ -6,7 +6,7 @@
 		"jquery-3.4.1.min.js",
 		"offlineClient.js",
 		"images/sprite-sheet0.png",
-		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
 		"images/tiledbackground.png",
 		"icon-16.png",
 		"icon-32.png",
