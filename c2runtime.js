@@ -16739,7 +16739,7 @@ cr.behaviors.Platform = function(runtime)
 	behinstProto.onCreate = function()
 	{
 		this.maxspeed = this.properties[0];
-		console.log(this);
+		console.dir(this);
 		this.acc = this.properties[1];
 		this.dec = this.properties[2];
 		this.jumpStrength = this.properties[3];
